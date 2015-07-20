@@ -2,7 +2,7 @@ Litcoffee mode
 ================
 Syntax highlighting for litcoffee in Coda 2.
 
-This mode is based on https://github.com/caseywebdev/CoffeeScript.mode. It renders anything that's not indented as comments.
+This mode is based on https://github.com/caseywebdev/CoffeeScript.mode. It renders anything that's not indented as markdown.
 
  
 Installation
